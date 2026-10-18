@@ -1,0 +1,52 @@
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# Custom host records are listed here.
+
+
+# End of custom host records.
+# Start StevenBlack
+
+#=====================================
+# Title: Hosts contributed by Steven Black
+# http://stevenblack.com
+
+0.0.0.0 www.retrogames.cc  
+0.0.0.0 retrogames.cc  
+armorgames.com
+cache.armorgames.com
+p.armorgames.net
+0.0.0.0 prod-games-particle.merino.prod.webservices.mozgcp.net
+0.0.0.0 facebook.com
+0.0.0.0 tiktok.com
+0.0.0.0 discord.com
+0.0.0.0 discord.gg
+0.0.0.0 discordapp.com
+0.0.0.0 discordapp.net
+0.0.0.0 discord.co
+0.0.0.0 discord-activities.com
+0.0.0.0 discordsays.com
+0.0.0.0 snapchat.com
+0.0.0.0 snap-dev.net
+0.0.0.0 sc-cdn.net
+0.0.0.0 snapkit.com
+0.0.0.0 snapchat.scdn.co
+0.0.0.0 bitmoji.com
+0.0.0.0 feelinsonice.com
+0.0.0.0 youtube.com
+0.0.0.0 googlevideo.com
+0.0.0.0 ytimg.com
+0.0.0.0 youtu.be
+0.0.0.0 youtube-nocookie.com
