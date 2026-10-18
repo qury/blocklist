@@ -23,6 +23,7 @@ ff02::3 ip6-allhosts
 # Title: Hosts contributed by Steven Black
 # http://stevenblack.com
 
+0.0.0.0 castlevania.fandom.com
 0.0.0.0 www.retrogames.cc  
 0.0.0.0 retrogames.cc  
 0.0.0.0 armorgames.com
