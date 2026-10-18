@@ -25,9 +25,9 @@ ff02::3 ip6-allhosts
 
 0.0.0.0 www.retrogames.cc  
 0.0.0.0 retrogames.cc  
-armorgames.com
-cache.armorgames.com
-p.armorgames.net
+0.0.0.0 armorgames.com
+0.0.0.0 cache.armorgames.com
+0.0.0.0 p.armorgames.net
 0.0.0.0 prod-games-particle.merino.prod.webservices.mozgcp.net
 0.0.0.0 facebook.com
 0.0.0.0 tiktok.com
